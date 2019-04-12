@@ -1,4 +1,3 @@
-//Eason
 #include <caffe/caffe.hpp>
 #ifdef USE_OPENCV
 #include <opencv2/core/core.hpp>
